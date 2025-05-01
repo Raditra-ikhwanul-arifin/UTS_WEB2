@@ -210,9 +210,9 @@ node server.js
 ```
 
 7. Pengujian
-```
+
 Setelah server berjalan, selanjutnya kita bisa mencobanya, untuk membukanya bisa melalui browser ataupun melalui Live server dari VScode
-```
+
 ---
 ## 📸 Dokumentasi
 
